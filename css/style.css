@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Lato:ital,wght@0,700;0,900;1,700&family=Noto+Sans+KR&family=Parisienne&family=Playfair+Display:ital,wght@0,400;0,800;1,400&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-black.css");
+
+body {
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h3 {
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+h1, h2 {
+	font-family: 'Lato', sans-serif;
+}
+
+h3 {
+	font-family: Cookie;
+}
+
+a {
+	text-decoration: none;
+}
+
+#img-bottom { 
+	position: relative; height: 200px
+}
+#img-bottom img { 
+	position: absolute; bottom: 0; 
+}
+#logo2 { 
+	left: auto; right: 0
+}
+
+#logo1 {
+	right: auto; left: 0;
+}
+
+
+
+
+
+
